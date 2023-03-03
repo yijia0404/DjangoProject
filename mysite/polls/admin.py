@@ -1,6 +1,4 @@
-from django.contrib import admin
-
-# Register your models here.
+# learning 2
 from django.contrib import admin
 
 from .models import Question
